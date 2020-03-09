@@ -1,2 +1,2 @@
 # Natural-Language-Processing
-NLP assginments
+Assginments for CS378 2020 spring
