@@ -1,4 +1,4 @@
-# Natural-Language-Processing
+# CS378: Natural-Language-Processing
 Assignments for CS378 2020 spring
 
 - Assignment 0: review of linear algebra and probability
